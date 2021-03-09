@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778423653435",
+    "project_id": "endgamev2-4ef70",
+    "storage_bucket": "endgamev2-4ef70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778423653435:android:bf0a40e86d26eac840b81e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778423653435-lgp81gp0uoa7nn25n7tceg8cvf05bcsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO7Fk8wYXswS8vbzOkiL9eki8MKL168TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778423653435-lgp81gp0uoa7nn25n7tceg8cvf05bcsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
